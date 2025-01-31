@@ -65,12 +65,7 @@ Drowsiness detection is a critical feature in many safety applications, especial
 
 ---
 
-### 📸 **Preview**
 
-![Drowsiness Detection](images/preview.jpg)  
-*Real-time face detection and alert system in action.*
-
----
 
 ### 🎥 **Project Demonstration Video**
 
